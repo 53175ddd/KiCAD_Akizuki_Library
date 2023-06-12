@@ -1,0 +1,1 @@
+# KiCAD_Akizuki_Library
