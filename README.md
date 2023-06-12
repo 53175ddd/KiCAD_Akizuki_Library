@@ -1,4 +1,4 @@
-# KiCAD_Akizuki_Librar
+# KiCAD_Akizuki_Library
 
 # ルール
 
