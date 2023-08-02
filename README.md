@@ -10,6 +10,10 @@
 
 以上を守れる場合に限り自由にお使いいただけます
 
+# 使い方
+
+「Downlowd ZIP」からリポジトリまるごとダウンロードして、必要なフォルダをインポートしてお使いください
+
 ---
 
-<div align="center">Copyright 2023 <a href="https://twitter.com/53175DDD">Nch MOSFET@53175DDD</a></div>
+<div align="center">Copyright 2023 <a href="https://twitter.com/53175DDD">MOS@53175DDD</a></div>
