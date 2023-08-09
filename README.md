@@ -1,6 +1,6 @@
 # KiCAD_Akizuki_Library
 
-- `./AE-Components.pretty/`
+- `./AE-Compornents.pretty/`
   - 秋月電子で販売されているモジュールのライブラリ
 - `./AE-Parts.pretty`
   - 秋月で販売されている部品のライブラリ  
