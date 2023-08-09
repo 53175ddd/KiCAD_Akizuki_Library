@@ -45,6 +45,8 @@
     (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 118cb9c6-6817-4ead-a85d-c5a2ce584458))
   (fp_line (start 10.5 22) (end 10.5 -22)
     (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp ae32176a-a9f2-48bc-a772-01b35e050676))
+  (fp_rect (start -10.75 -22.25) (end 10.75 22.25)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 574cca1f-7486-444d-87e3-4ca76137ff94))
   (pad "1" thru_hole circle (at -8.89 -20.32) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp e03bccc8-920b-472a-9028-add23382b79a))
   (pad "2" thru_hole circle (at -8.89 -17.78) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 58fdd629-0a78-40f6-bd67-d0b395a46b55))
   (pad "3" thru_hole circle (at -8.89 -15.24) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp bed74c9c-1309-473f-8fdb-785d50d53fa6))
