@@ -1,14 +1,20 @@
 # KiCAD_Akizuki_Library
 
-- `./AE-Compornents.pretty/`
+- `AE-Compornents.pretty/`
   - 秋月電子で販売されているモジュールのライブラリ
+- `AE-Parts.pretty/`
+  - 秋月で販売されている部品のライブラリ
+ 
+# リスト
+
+- `AE-Compornents.pretty/`
   - [AE-BME280](https://akizukidenshi.com/catalog/g/gK-09421/)
   - [AE-BMX055](https://akizukidenshi.com/catalog/g/gK-13010/)
   - [AE-DRV8835](https://akizukidenshi.com/catalog/g/gK-09848/)
   - [AE-RP2040](https://akizukidenshi.com/catalog/g/gK-17542/)
-- `./AE-Parts.pretty/`
-  - 秋月で販売されている部品のライブラリ
+- `AE-Parts.pretty/`
   - [LBR-127HLD](https://akizukidenshi.com/catalog/g/gP-04500/)
+
 
 # ルール
 
